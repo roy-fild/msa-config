@@ -19,9 +19,9 @@ messages:
 
 api:
   servicecall:
-    base:
-      url: http://cenlots2024-cenlots-api-service
-      port: 8080
+    #base:
+     # url: http://cenlots2024-cenlots-api-service
+      #port: 8080
     lotuserservice:
       url: http://cenlots2024-lotuserservice-service
     gamemngservice:
