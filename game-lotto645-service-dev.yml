@@ -24,7 +24,6 @@ spring:
     port: 6379
     #host: dev-elasticache-replication-group.ikmdkh.ng.0001.apn2.cache.amazonaws.com
     host: master.redis-cls-stg-sales-as1.txsqxp.apn2.cache.amazonaws.com
-    ssl: true
 
 jdbc:
   #url: jdbc:log4jdbc:postgresql://10.10.5.183:5432/cenlotsdb01?charSet=UTF-8&prepareThreshold=1&serverTimezone=Asia/Seoul
